@@ -2,14 +2,14 @@
 
 ### Dependency
 Dengan menggunakan pip3, install terlebih dahulu beberapa package yang diperlukan dalam code seperti :
-    a. codeperl.py
-        - Install package mechanicalsoup
-    b. extcontent.py
-        - Install package BeautifulSoup
-    c. chart10best.py
-        - Install package nltk, numpy, dan matplotlib
-    d. chart14days.py
-        - Install package nltk, numpy, dan matplotlib
+1. codeperl.py
+    - Install package mechanicalsoup
+2. extcontent.py
+    - Install package BeautifulSoup
+3. chart10best.py
+    - Install package nltk, numpy, dan matplotlib
+4. chart14days.py
+    - Install package nltk, numpy, dan matplotlib
 
 ### Proses Crawling
 Untuk melakukan crawling, jalankan script <b>codeperl.py</b> dengan cara :
